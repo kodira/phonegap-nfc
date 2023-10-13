@@ -5,11 +5,7 @@
   "cordova": {
     "id": "phonegap-nfc",
     "platforms": [
-      "android",
-      "wp8",
-      "windows",
-      "blackberry10",
-      "ios"
+      "android"
     ]
   },
   "repository": {
